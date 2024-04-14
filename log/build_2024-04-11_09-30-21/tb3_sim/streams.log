@@ -1,0 +1,21 @@
+[2.476s] Invoking command in '/home/hassen/turtlebot3_ws/src/tb3_sim': PYTHONPATH=/home/hassen/turtlebot3_ws/build/tb3_sim/prefix_override:/home/hassen/turtlebot3_ws/install/tb3_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/tb3_sim build --build-base /home/hassen/turtlebot3_ws/build/tb3_sim/build install --record /home/hassen/turtlebot3_ws/build/tb3_sim/install.log --single-version-externally-managed install_data
+[3.221s] running egg_info
+[3.221s] writing ../../build/tb3_sim/tb3_sim.egg-info/PKG-INFO
+[3.221s] writing dependency_links to ../../build/tb3_sim/tb3_sim.egg-info/dependency_links.txt
+[3.221s] writing entry points to ../../build/tb3_sim/tb3_sim.egg-info/entry_points.txt
+[3.221s] writing requirements to ../../build/tb3_sim/tb3_sim.egg-info/requires.txt
+[3.222s] writing top-level names to ../../build/tb3_sim/tb3_sim.egg-info/top_level.txt
+[3.222s] reading manifest file '../../build/tb3_sim/tb3_sim.egg-info/SOURCES.txt'
+[3.222s] writing manifest file '../../build/tb3_sim/tb3_sim.egg-info/SOURCES.txt'
+[3.222s] running build
+[3.222s] running build_py
+[3.222s] running install
+[3.222s] running install_lib
+[3.222s] running install_data
+[3.222s] running install_egg_info
+[3.222s] removing '/home/hassen/turtlebot3_ws/install/tb3_sim/lib/python3.10/site-packages/tb3_sim-0.0.0-py3.10.egg-info' (and everything under it)
+[3.222s] Copying ../../build/tb3_sim/tb3_sim.egg-info to /home/hassen/turtlebot3_ws/install/tb3_sim/lib/python3.10/site-packages/tb3_sim-0.0.0-py3.10.egg-info
+[3.222s] running install_scripts
+[3.223s] Installing amcl_init_pose_publisher script to /home/hassen/turtlebot3_ws/install/tb3_sim/lib/tb3_sim
+[3.223s] writing list of installed files to '/home/hassen/turtlebot3_ws/build/tb3_sim/install.log'
+[3.918s] Invoked command in '/home/hassen/turtlebot3_ws/src/tb3_sim' returned '0': PYTHONPATH=/home/hassen/turtlebot3_ws/build/tb3_sim/prefix_override:/home/hassen/turtlebot3_ws/install/tb3_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/tb3_sim build --build-base /home/hassen/turtlebot3_ws/build/tb3_sim/build install --record /home/hassen/turtlebot3_ws/build/tb3_sim/install.log --single-version-externally-managed install_data

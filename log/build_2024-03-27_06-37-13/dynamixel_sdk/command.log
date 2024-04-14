@@ -1,0 +1,1 @@
+Invoking command in '/home/hassen/turtlebot3_ws/build/dynamixel_sdk': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/hassen/turtlebot3_ws/src/utils/DynamixelSDK/dynamixel_sdk -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/hassen/turtlebot3_ws/install/dynamixel_sdk

@@ -1,0 +1,25 @@
+[0.621s] Invoking command in '/home/hassen/turtlebot3_ws/build/tb3_autonomy': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hassen/turtlebot3_ws/install/turtlebot3_teleop:/home/hassen/turtlebot3_ws/install/turtlebot3_example:/home/hassen/turtlebot3_ws/install/tb3_sim:/opt/ros/humble /usr/bin/cmake --build /home/hassen/turtlebot3_ws/build/tb3_autonomy -- -j12 -l12
+[11.543s] [100%] Built target autonomy_node
+[11.547s] Invoked command in '/home/hassen/turtlebot3_ws/build/tb3_autonomy' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hassen/turtlebot3_ws/install/turtlebot3_teleop:/home/hassen/turtlebot3_ws/install/turtlebot3_example:/home/hassen/turtlebot3_ws/install/tb3_sim:/opt/ros/humble /usr/bin/cmake --build /home/hassen/turtlebot3_ws/build/tb3_autonomy -- -j12 -l12
+[27.281s] Invoking command in '/home/hassen/turtlebot3_ws/build/tb3_autonomy': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hassen/turtlebot3_ws/install/turtlebot3_teleop:/home/hassen/turtlebot3_ws/install/turtlebot3_example:/home/hassen/turtlebot3_ws/install/tb3_sim:/opt/ros/humble /usr/bin/cmake --install /home/hassen/turtlebot3_ws/build/tb3_autonomy
+[27.320s] -- Install configuration: ""
+[27.320s] -- Execute custom install script
+[27.320s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/tb3_autonomy/share/tb3_autonomy/bt_xml/tree.xml
+[27.320s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/tb3_autonomy/share/tb3_autonomy/launch/autonomy.launch.py
+[27.321s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/tb3_autonomy/lib/tb3_autonomy/autonomy_node
+[27.321s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/tb3_autonomy/share/ament_index/resource_index/package_run_dependencies/tb3_autonomy
+[27.321s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/tb3_autonomy/share/ament_index/resource_index/parent_prefix_path/tb3_autonomy
+[27.321s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/tb3_autonomy/share/tb3_autonomy/environment/ament_prefix_path.sh
+[27.321s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/tb3_autonomy/share/tb3_autonomy/environment/ament_prefix_path.dsv
+[27.321s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/tb3_autonomy/share/tb3_autonomy/environment/path.sh
+[27.321s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/tb3_autonomy/share/tb3_autonomy/environment/path.dsv
+[27.321s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/tb3_autonomy/share/tb3_autonomy/local_setup.bash
+[27.321s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/tb3_autonomy/share/tb3_autonomy/local_setup.sh
+[27.321s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/tb3_autonomy/share/tb3_autonomy/local_setup.zsh
+[27.321s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/tb3_autonomy/share/tb3_autonomy/local_setup.dsv
+[27.321s] -- Symlinking: /home/hassen/turtlebot3_ws/install/tb3_autonomy/share/tb3_autonomy/package.dsv
+[27.321s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/tb3_autonomy/share/ament_index/resource_index/packages/tb3_autonomy
+[27.321s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/tb3_autonomy/share/tb3_autonomy/cmake/tb3_autonomyConfig.cmake
+[27.321s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/tb3_autonomy/share/tb3_autonomy/cmake/tb3_autonomyConfig-version.cmake
+[27.321s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/tb3_autonomy/share/tb3_autonomy/package.xml
+[58.995s] Invoked command in '/home/hassen/turtlebot3_ws/build/tb3_autonomy' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hassen/turtlebot3_ws/install/turtlebot3_teleop:/home/hassen/turtlebot3_ws/install/turtlebot3_example:/home/hassen/turtlebot3_ws/install/tb3_sim:/opt/ros/humble /usr/bin/cmake --install /home/hassen/turtlebot3_ws/build/tb3_autonomy

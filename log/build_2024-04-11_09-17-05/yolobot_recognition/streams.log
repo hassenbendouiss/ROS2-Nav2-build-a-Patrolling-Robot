@@ -1,0 +1,57 @@
+[0.031s] Invoking command in '/home/hassen/turtlebot3_ws/build/yolobot_recognition': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hassen/turtlebot3_ws/install/turtlebot3_teleop:/home/hassen/turtlebot3_ws/install/turtlebot3_example:/home/hassen/turtlebot3_ws/install/tb3_sim:/opt/ros/humble /usr/bin/cmake /home/hassen/turtlebot3_ws/src/yolobot_recognition -DCMAKE_INSTALL_PREFIX=/home/hassen/turtlebot3_ws/install/yolobot_recognition
+[0.207s] -- The C compiler identification is GNU 11.4.0
+[0.539s] -- The CXX compiler identification is GNU 11.4.0
+[0.553s] -- Detecting C compiler ABI info
+[0.666s] -- Detecting C compiler ABI info - done
+[0.676s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.677s] -- Detecting C compile features
+[0.677s] -- Detecting C compile features - done
+[0.685s] -- Detecting CXX compiler ABI info
+[0.788s] -- Detecting CXX compiler ABI info - done
+[0.799s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.799s] -- Detecting CXX compile features
+[0.800s] -- Detecting CXX compile features - done
+[0.806s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.988s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.255s] -- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.397s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.401s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.402s] -- Added test 'lint_cmake' to check CMake code style
+[1.404s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.409s] -- Added test 'xmllint' to check XML markup files
+[1.413s] -- Configuring done
+[1.416s] -- Generating done
+[1.418s] -- Build files have been written to: /home/hassen/turtlebot3_ws/build/yolobot_recognition
+[1.422s] Invoked command in '/home/hassen/turtlebot3_ws/build/yolobot_recognition' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hassen/turtlebot3_ws/install/turtlebot3_teleop:/home/hassen/turtlebot3_ws/install/turtlebot3_example:/home/hassen/turtlebot3_ws/install/tb3_sim:/opt/ros/humble /usr/bin/cmake /home/hassen/turtlebot3_ws/src/yolobot_recognition -DCMAKE_INSTALL_PREFIX=/home/hassen/turtlebot3_ws/install/yolobot_recognition
+[1.423s] Invoking command in '/home/hassen/turtlebot3_ws/build/yolobot_recognition': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hassen/turtlebot3_ws/install/turtlebot3_teleop:/home/hassen/turtlebot3_ws/install/turtlebot3_example:/home/hassen/turtlebot3_ws/install/tb3_sim:/opt/ros/humble /usr/bin/cmake --build /home/hassen/turtlebot3_ws/build/yolobot_recognition -- -j12 -l12
+[1.474s] Invoked command in '/home/hassen/turtlebot3_ws/build/yolobot_recognition' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hassen/turtlebot3_ws/install/turtlebot3_teleop:/home/hassen/turtlebot3_ws/install/turtlebot3_example:/home/hassen/turtlebot3_ws/install/tb3_sim:/opt/ros/humble /usr/bin/cmake --build /home/hassen/turtlebot3_ws/build/yolobot_recognition -- -j12 -l12
+[1.504s] Invoking command in '/home/hassen/turtlebot3_ws/build/yolobot_recognition': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hassen/turtlebot3_ws/install/turtlebot3_teleop:/home/hassen/turtlebot3_ws/install/turtlebot3_example:/home/hassen/turtlebot3_ws/install/tb3_sim:/opt/ros/humble /usr/bin/cmake --install /home/hassen/turtlebot3_ws/build/yolobot_recognition
+[1.513s] -- Install configuration: ""
+[1.513s] -- Installing: /home/hassen/turtlebot3_ws/install/yolobot_recognition/share/yolobot_recognition//scripts
+[1.513s] -- Installing: /home/hassen/turtlebot3_ws/install/yolobot_recognition/share/yolobot_recognition//scripts/.gitattributes
+[1.513s] -- Installing: /home/hassen/turtlebot3_ws/install/yolobot_recognition/share/yolobot_recognition//scripts/yolov8n.pt
+[1.523s] -- Installing: /home/hassen/turtlebot3_ws/install/yolobot_recognition/share/yolobot_recognition//scripts/.dockerignore
+[1.523s] -- Installing: /home/hassen/turtlebot3_ws/install/yolobot_recognition/share/yolobot_recognition//scripts/yolov8_ros2_pt.py
+[1.523s] -- Installing: /home/hassen/turtlebot3_ws/install/yolobot_recognition/share/yolobot_recognition//scripts/.gitignore
+[1.524s] -- Installing: /home/hassen/turtlebot3_ws/install/yolobot_recognition/share/yolobot_recognition//scripts/yolov8_ros2_subscriber.py
+[1.524s] -- Installing: /home/hassen/turtlebot3_ws/install/yolobot_recognition/share/yolobot_recognition//launch
+[1.524s] -- Installing: /home/hassen/turtlebot3_ws/install/yolobot_recognition/share/yolobot_recognition//launch/launch_yolov8.launch.py
+[1.525s] -- Installing: /home/hassen/turtlebot3_ws/install/yolobot_recognition/lib/yolobot_recognition/yolov8_ros2_pt.py
+[1.526s] -- Installing: /home/hassen/turtlebot3_ws/install/yolobot_recognition/lib/yolobot_recognition/yolov8_ros2_subscriber.py
+[1.527s] -- Installing: /home/hassen/turtlebot3_ws/install/yolobot_recognition/lib/yolobot_recognition/launch_yolov8.launch.py
+[1.527s] -- Installing: /home/hassen/turtlebot3_ws/install/yolobot_recognition/share/ament_index/resource_index/package_run_dependencies/yolobot_recognition
+[1.527s] -- Installing: /home/hassen/turtlebot3_ws/install/yolobot_recognition/share/ament_index/resource_index/parent_prefix_path/yolobot_recognition
+[1.527s] -- Installing: /home/hassen/turtlebot3_ws/install/yolobot_recognition/share/yolobot_recognition/environment/ament_prefix_path.sh
+[1.527s] -- Installing: /home/hassen/turtlebot3_ws/install/yolobot_recognition/share/yolobot_recognition/environment/ament_prefix_path.dsv
+[1.528s] -- Installing: /home/hassen/turtlebot3_ws/install/yolobot_recognition/share/yolobot_recognition/environment/path.sh
+[1.528s] -- Installing: /home/hassen/turtlebot3_ws/install/yolobot_recognition/share/yolobot_recognition/environment/path.dsv
+[1.528s] -- Installing: /home/hassen/turtlebot3_ws/install/yolobot_recognition/share/yolobot_recognition/local_setup.bash
+[1.528s] -- Installing: /home/hassen/turtlebot3_ws/install/yolobot_recognition/share/yolobot_recognition/local_setup.sh
+[1.528s] -- Installing: /home/hassen/turtlebot3_ws/install/yolobot_recognition/share/yolobot_recognition/local_setup.zsh
+[1.528s] -- Installing: /home/hassen/turtlebot3_ws/install/yolobot_recognition/share/yolobot_recognition/local_setup.dsv
+[1.528s] -- Installing: /home/hassen/turtlebot3_ws/install/yolobot_recognition/share/yolobot_recognition/package.dsv
+[1.528s] -- Installing: /home/hassen/turtlebot3_ws/install/yolobot_recognition/share/ament_index/resource_index/packages/yolobot_recognition
+[1.528s] -- Installing: /home/hassen/turtlebot3_ws/install/yolobot_recognition/share/yolobot_recognition/cmake/yolobot_recognitionConfig.cmake
+[1.528s] -- Installing: /home/hassen/turtlebot3_ws/install/yolobot_recognition/share/yolobot_recognition/cmake/yolobot_recognitionConfig-version.cmake
+[1.529s] -- Installing: /home/hassen/turtlebot3_ws/install/yolobot_recognition/share/yolobot_recognition/package.xml
+[1.530s] Invoked command in '/home/hassen/turtlebot3_ws/build/yolobot_recognition' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hassen/turtlebot3_ws/install/turtlebot3_teleop:/home/hassen/turtlebot3_ws/install/turtlebot3_example:/home/hassen/turtlebot3_ws/install/tb3_sim:/opt/ros/humble /usr/bin/cmake --install /home/hassen/turtlebot3_ws/build/yolobot_recognition

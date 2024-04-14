@@ -1,0 +1,25 @@
+[0.048s] Invoking command in '/home/hassen/turtlebot3_ws/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hassen/turtlebot3_ws/install/turtlebot3_teleop:/home/hassen/turtlebot3_ws/install/turtlebot3_example:/home/hassen/turtlebot3_ws/install/tb3_sim:/opt/ros/humble /usr/bin/cmake --build /home/hassen/turtlebot3_ws/build/turtlebot3_cartographer -- -j12 -l12
+[11.563s] Invoked command in '/home/hassen/turtlebot3_ws/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hassen/turtlebot3_ws/install/turtlebot3_teleop:/home/hassen/turtlebot3_ws/install/turtlebot3_example:/home/hassen/turtlebot3_ws/install/tb3_sim:/opt/ros/humble /usr/bin/cmake --build /home/hassen/turtlebot3_ws/build/turtlebot3_cartographer -- -j12 -l12
+[27.296s] Invoking command in '/home/hassen/turtlebot3_ws/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hassen/turtlebot3_ws/install/turtlebot3_teleop:/home/hassen/turtlebot3_ws/install/turtlebot3_example:/home/hassen/turtlebot3_ws/install/tb3_sim:/opt/ros/humble /usr/bin/cmake --install /home/hassen/turtlebot3_ws/build/turtlebot3_cartographer
+[27.302s] -- Install configuration: ""
+[27.306s] -- Execute custom install script
+[27.306s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/config/turtlebot3_lds_2d.lua
+[27.306s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/launch/cartographer.launch.py
+[27.307s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/launch/occupancy_grid.launch.py
+[27.307s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/rviz/tb3_cartographer.rviz
+[27.307s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/turtlebot3_cartographer/share/ament_index/resource_index/package_run_dependencies/turtlebot3_cartographer
+[27.307s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/turtlebot3_cartographer/share/ament_index/resource_index/parent_prefix_path/turtlebot3_cartographer
+[27.307s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/ament_prefix_path.sh
+[27.307s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/ament_prefix_path.dsv
+[27.308s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/path.sh
+[27.308s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/path.dsv
+[27.308s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.bash
+[27.308s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.sh
+[27.308s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.zsh
+[27.309s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.dsv
+[27.309s] -- Symlinking: /home/hassen/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/package.dsv
+[27.336s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/turtlebot3_cartographer/share/ament_index/resource_index/packages/turtlebot3_cartographer
+[27.336s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/cmake/turtlebot3_cartographerConfig.cmake
+[27.336s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/cmake/turtlebot3_cartographerConfig-version.cmake
+[27.336s] -- Up-to-date symlink: /home/hassen/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/package.xml
+[27.339s] Invoked command in '/home/hassen/turtlebot3_ws/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hassen/turtlebot3_ws/install/turtlebot3_teleop:/home/hassen/turtlebot3_ws/install/turtlebot3_example:/home/hassen/turtlebot3_ws/install/tb3_sim:/opt/ros/humble /usr/bin/cmake --install /home/hassen/turtlebot3_ws/build/turtlebot3_cartographer

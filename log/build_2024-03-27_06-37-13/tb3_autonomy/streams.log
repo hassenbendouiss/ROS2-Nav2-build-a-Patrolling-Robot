@@ -1,0 +1,52 @@
+[0.232s] Invoking command in '/home/hassen/turtlebot3_ws/build/tb3_autonomy': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/hassen/turtlebot3_ws/src/tb3_autonomy -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/hassen/turtlebot3_ws/install/tb3_autonomy
+[0.993s] -- The C compiler identification is GNU 11.4.0
+[0.993s] -- The CXX compiler identification is GNU 11.4.0
+[0.993s] -- Detecting C compiler ABI info
+[0.993s] -- Detecting C compiler ABI info - done
+[0.993s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.994s] -- Detecting C compile features
+[0.994s] -- Detecting C compile features - done
+[0.994s] -- Detecting CXX compiler ABI info
+[0.994s] -- Detecting CXX compiler ABI info - done
+[0.994s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.994s] -- Detecting CXX compile features
+[0.994s] -- Detecting CXX compile features - done
+[0.994s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.994s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.994s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.994s] -- Found rclcpp: 16.0.8 (/opt/ros/humble/share/rclcpp/cmake)
+[1.009s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.016s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.026s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.041s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.063s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.133s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.135s] -- Found rmw_fastrtps_cpp: 6.2.6 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.248s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.280s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.339s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.354s] -- Looking for pthread.h
+[1.434s] -- Looking for pthread.h - found
+[1.434s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.504s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.505s] -- Found Threads: TRUE  
+[1.654s] -- Found rclcpp_action: 16.0.8 (/opt/ros/humble/share/rclcpp_action/cmake)
+[1.749s] [31mCMake Error at CMakeLists.txt:13 (find_package):
+[1.749s]   By not providing "Findnav2_msgs.cmake" in CMAKE_MODULE_PATH this project
+[1.749s]   has asked CMake to find a package configuration file provided by
+[1.749s]   "nav2_msgs", but CMake did not find one.
+[1.749s] 
+[1.749s]   Could not find a package configuration file provided by "nav2_msgs" with
+[1.749s]   any of the following names:
+[1.749s] 
+[1.750s]     nav2_msgsConfig.cmake
+[1.750s]     nav2_msgs-config.cmake
+[1.750s] 
+[1.750s]   Add the installation prefix of "nav2_msgs" to CMAKE_PREFIX_PATH or set
+[1.750s]   "nav2_msgs_DIR" to a directory containing one of the above files.  If
+[1.750s]   "nav2_msgs" provides a separate development package or SDK, be sure it has
+[1.750s]   been installed.
+[1.750s] 
+[1.750s] [0m
+[1.750s] -- Configuring incomplete, errors occurred!
+[1.750s] See also "/home/hassen/turtlebot3_ws/build/tb3_autonomy/CMakeFiles/CMakeOutput.log".

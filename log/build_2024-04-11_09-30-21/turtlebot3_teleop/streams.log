@@ -1,0 +1,21 @@
+[2.487s] Invoking command in '/home/hassen/turtlebot3_ws/src/turtlebot3/turtlebot3/turtlebot3_teleop': PYTHONPATH=/home/hassen/turtlebot3_ws/build/turtlebot3_teleop/prefix_override:/home/hassen/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../build/turtlebot3_teleop build --build-base /home/hassen/turtlebot3_ws/build/turtlebot3_teleop/build install --record /home/hassen/turtlebot3_ws/build/turtlebot3_teleop/install.log --single-version-externally-managed install_data
+[3.230s] running egg_info
+[3.230s] writing ../../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/PKG-INFO
+[3.230s] writing dependency_links to ../../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/dependency_links.txt
+[3.230s] writing entry points to ../../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/entry_points.txt
+[3.231s] writing requirements to ../../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/requires.txt
+[3.231s] writing top-level names to ../../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/top_level.txt
+[3.232s] reading manifest file '../../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/SOURCES.txt'
+[3.232s] writing manifest file '../../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/SOURCES.txt'
+[3.232s] running build
+[3.233s] running build_py
+[3.233s] running install
+[3.233s] running install_lib
+[3.233s] running install_data
+[3.233s] running install_egg_info
+[3.233s] removing '/home/hassen/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages/turtlebot3_teleop-2.1.5-py3.10.egg-info' (and everything under it)
+[3.233s] Copying ../../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info to /home/hassen/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages/turtlebot3_teleop-2.1.5-py3.10.egg-info
+[3.233s] running install_scripts
+[3.233s] Installing teleop_keyboard script to /home/hassen/turtlebot3_ws/install/turtlebot3_teleop/lib/turtlebot3_teleop
+[3.233s] writing list of installed files to '/home/hassen/turtlebot3_ws/build/turtlebot3_teleop/install.log'
+[3.968s] Invoked command in '/home/hassen/turtlebot3_ws/src/turtlebot3/turtlebot3/turtlebot3_teleop' returned '0': PYTHONPATH=/home/hassen/turtlebot3_ws/build/turtlebot3_teleop/prefix_override:/home/hassen/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../build/turtlebot3_teleop build --build-base /home/hassen/turtlebot3_ws/build/turtlebot3_teleop/build install --record /home/hassen/turtlebot3_ws/build/turtlebot3_teleop/install.log --single-version-externally-managed install_data

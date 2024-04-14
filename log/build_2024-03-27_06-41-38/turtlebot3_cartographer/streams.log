@@ -1,0 +1,2 @@
+[0.030s] Invoking command in '/home/hassen/turtlebot3_ws/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/hassen/turtlebot3_ws/build/turtlebot3_cartographer -- -j12 -l12
+[1.469s] Invoked command in '/home/hassen/turtlebot3_ws/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/hassen/turtlebot3_ws/build/turtlebot3_cartographer -- -j12 -l12
